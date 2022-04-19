@@ -1,5 +1,5 @@
 # import-koordinat-penduduk-open-sid
-<p>install python, selenium dan pyautogui</p>
+<p>install python, selenium, openpyxl dan pyautogui</p>
 <p> untuk mempermudah import data lokasi tempat tinggal penduduk pada openSID agar tidak upload secara manual </p>
 <p>isikan koordinat lokasi tempat tinggal penduduk pada file excel yang telah disediakan</p>
 <p>tuliskan url pada file python dengan alamat login halaman web openSID anda</p>
